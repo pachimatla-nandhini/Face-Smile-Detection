@@ -72,7 +72,8 @@ Faces → Blue rectangle.
 
 Smiles → Green rectangle with "Smiling" label.
 
-(You can add screenshots or GIF here to make the repo attractive.)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/611f274c-9d10-4905-844c-0e4259279e5d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f72594b6-e54b-44fc-95bb-18eb64d0c3c4" />
 
 **🎯 Learning Outcomes**
 
